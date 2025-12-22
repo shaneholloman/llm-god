@@ -61,6 +61,7 @@ if (hasContextBridge && canAccessWindow) {
           "close-model-selection-window",
           "save-default-models",
           "content-copied", // Add this for view contexts too
+          "paste-image",
           "new-chat",
         ];
         if (validChannels.includes(channel)) {
