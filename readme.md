@@ -1,4 +1,4 @@
-# LLM-God
+# LLM-God (Your Quick AI Browser)
 
 ## Screenshot
 
